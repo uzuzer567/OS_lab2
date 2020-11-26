@@ -1,0 +1,18 @@
+Function result: 1, calculated at 1.006000 sec, recorded at 1.006000 sec
+
+Function result: 2, calculated at 2.006000 sec, recorded at 2.007000 sec
+
+Function result: 6, calculated at 3.007000 sec, recorded at 3.008000 sec
+
+Function result: 24, calculated at 4.008000 sec, recorded at 4.009000 sec
+
+Function result: 120, calculated at 5.008000 sec, recorded at 5.009000 sec
+
+Function result: 720, calculated at 6.009000 sec, recorded at 6.011000 sec
+
+Function result: 5040, calculated at 7.010000 sec, recorded at 7.011000 sec
+
+Function result: 40320, calculated at 8.010000 sec, recorded at 8.011000 sec
+
+Function result: 362880, calculated at 9.011000 sec, recorded at 9.013000 sec
+
